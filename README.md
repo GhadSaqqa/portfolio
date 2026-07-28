@@ -10,4 +10,4 @@ power management, and mechanical design.
 - [Coding Projects](./coding-projects) — C/C++ projects in simulation and data analysis
 
 ## Skills
-SolidWorks, Fusion 360, MATLAB, C/C++, FEA, embedded systems
+AutoDesk Inventor/SolidWorks, Arduino, MATLAB, C/C++, FEA, embedded systems
