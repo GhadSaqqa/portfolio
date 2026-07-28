@@ -1,0 +1,14 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ghad/Desktop/Assignment 1/precision_farm'
+relocations:
+  - { offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100002CCC, symSize: 0x404 }
+  - { offset: 0x3F, size: 0x8, addend: 0x0, symName: _MaturityDays, symObjAddr: 0xFD4, symBinAddr: 0x100003D18, symSize: 0x0 }
+  - { offset: 0x73, size: 0x8, addend: 0x0, symName: _BaseYields, symObjAddr: 0xFE4, symBinAddr: 0x100003D28, symSize: 0x0 }
+  - { offset: 0xCE, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100002CCC, symSize: 0x404 }
+  - { offset: 0x20C, size: 0x8, addend: 0x0, symName: _load_costs, symObjAddr: 0x414, symBinAddr: 0x1000030E0, symSize: 0x104 }
+  - { offset: 0x24C, size: 0x8, addend: 0x0, symName: _init_plot, symObjAddr: 0x518, symBinAddr: 0x1000031E4, symSize: 0x150 }
+  - { offset: 0x27E, size: 0x8, addend: 0x0, symName: _simulate_day, symObjAddr: 0x668, symBinAddr: 0x100003334, symSize: 0x440 }
+  - { offset: 0x2DA, size: 0x8, addend: 0x0, symName: _calculate_results, symObjAddr: 0xAA8, symBinAddr: 0x100003774, symSize: 0x304 }
+  - { offset: 0x345, size: 0x8, addend: 0x0, symName: _print_report, symObjAddr: 0xDBC, symBinAddr: 0x100003A88, symSize: 0x218 }
+...
