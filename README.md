@@ -9,5 +9,5 @@ power management, and mechanical design.
 - [Fan Drivetrain Design](./fan-drivetrain) — Motor selection, shaft stress analysis, and FEA for a 45kW industrial fan
 - [Coding Projects](./coding-projects) — C/C++ projects in simulation and data analysis
 
-## Skills
+## Technical Skills
 AutoDesk Inventor/SolidWorks, Arduino, MATLAB, C/C++, FEA, embedded systems
